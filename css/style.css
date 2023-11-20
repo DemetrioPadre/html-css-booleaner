@@ -20,7 +20,7 @@
     color:rgb(0, 166, 255) ;
     text-decoration: none;
 }
-.lighted-Text{
+#lighted-Text{
     background-color: yellow;
 }
 
@@ -31,4 +31,9 @@
 }
 .celeste{
     background-color: rgb(0, 247, 255);
+}
+
+#monitor{
+    display: block;
+    margin-top: 10px;
 }
