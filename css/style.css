@@ -1,0 +1,15 @@
+.pattern{
+    color: rgba(0, 136, 255, 0.17);
+    background-image: url(../img/pattern.png) ;
+    background-size: 150px;
+    height: 60px;
+    border: 1px solid rgba(0, 0, 0, 0.04);
+
+}
+#logo{
+    width: 200px;
+    background-color: rgba(0, 255, 255, 0.153);
+    padding: center;
+    
+
+}
