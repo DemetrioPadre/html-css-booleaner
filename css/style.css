@@ -1,8 +1,4 @@
-
-    
-
-
-.container{
+.header{
     background-color: rgba(0, 255, 255, 0.153);
     background-image: url(../img/pattern.png) ;
     background-size: 250px;
@@ -14,8 +10,13 @@
 }
 #logo{
     width: 200px;
-   
     padding: 5px;
-    
+}
 
+.link{
+    color:rgb(0, 166, 255) ;
+    text-decoration: none;
+}
+.paragrph{
+    color: rgb(128, 128, 128);
 }
