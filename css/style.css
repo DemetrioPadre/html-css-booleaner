@@ -1,10 +1,9 @@
-.header{
+.container{
     background-color: rgba(0, 255, 255, 0.153);
     background-image: url(../img/pattern.png) ;
     background-size: 250px;
     height: 60px;
     width: auto;
-    border: 1px solid rgba(0, 0, 0, 0.04);
     background-repeat: repeat-x;
 
 }
@@ -13,10 +12,14 @@
     padding: 5px;
 }
 
+.data{
+    color: rgb(128, 128, 128);
+}
+
 .link{
     color:rgb(0, 166, 255) ;
     text-decoration: none;
 }
-.paragrph{
-    color: rgb(128, 128, 128);
+.lighted-Text{
+    background-color: yellow;
 }
