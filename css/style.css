@@ -1,15 +1,21 @@
-.pattern{
-    color: rgba(0, 136, 255, 0.17);
+
+    
+
+
+.container{
+    background-color: rgba(0, 255, 255, 0.153);
     background-image: url(../img/pattern.png) ;
-    background-size: 150px;
+    background-size: 250px;
     height: 60px;
+    width: auto;
     border: 1px solid rgba(0, 0, 0, 0.04);
+    background-repeat: repeat-x;
 
 }
 #logo{
     width: 200px;
-    background-color: rgba(0, 255, 255, 0.153);
-    padding: center;
+   
+    padding: 5px;
     
 
 }
